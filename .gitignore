@@ -1,0 +1,10 @@
+# ignore below files
+
+sxb.json
+1.json
+.env
+
+# ignore below folders
+/src/fastgpt_rag_flow/*
+
+
